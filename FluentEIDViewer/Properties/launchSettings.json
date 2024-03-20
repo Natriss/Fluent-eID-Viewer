@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FluentEIDViewer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FluentEIDViewer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
